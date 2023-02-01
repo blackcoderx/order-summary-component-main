@@ -96,6 +96,10 @@ article{
   text-decoration: underline;
 }
 
+.change:hover{
+  text-decoration: none;
+}
+
 a{
   text-decoration: none;
   position: relative;
